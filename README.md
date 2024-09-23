@@ -1,5 +1,7 @@
 # NLP Preprocessing Techniques
 
+## youtube course link : https://www.youtube.com/watch?v=GhvH6TyyP_E&list=PLyhJeMedQd9Sra0zQp655r7yssu468fie
+
 This repository contains a collection of essential preprocessing techniques for Natural Language Processing (NLP), including:
 
 - **Tokenization**: Splitting text into sentences and words.

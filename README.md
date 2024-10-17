@@ -1,6 +1,7 @@
 # NLP Preprocessing Techniques
 
 ## youtube course link : https://www.youtube.com/watch?v=GhvH6TyyP_E&list=PLyhJeMedQd9Sra0zQp655r7yssu468fie
+## Notion page for course summarization : https://www.notion.so/NLP-course-YouTube-10926338d6268080bd91deea856ff34d
 
 This repository contains a collection of essential preprocessing techniques for Natural Language Processing (NLP), including:
 
